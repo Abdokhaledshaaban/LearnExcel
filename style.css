@@ -1,0 +1,154 @@
+
+
+body button{
+    font-size: 20px;
+    height: 15px;
+}
+
+.nav{
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    font-size: 20PX;
+}
+
+.links a{
+    color: #eeeeee;
+    text-decoration: none;
+    padding: 5px 15px;
+    border-radius: 15px;
+}
+
+.links a:hover {
+    background-color: #2727ff;
+}
+
+.nav button{
+    color: white;
+    background-color: red;
+    border: 0;
+    height: 25px;
+    border-radius: 50px;
+}
+
+.nav img{
+    width: 100px;
+}
+
+.intro{
+    background-color: blue;
+    border-radius: 0 0 50px 50px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 25px 25px 25px;
+}
+
+.ar{
+    font-size: 25px;
+}
+
+.intro img{
+    width: 350px;
+    border-radius: 30px;
+}
+
+.learn h3{
+    color: red;
+    margin-bottom: 0;
+}
+
+.learn h2{
+    margin-top: 0;
+}
+
+.learn{
+    font-size: 20px;
+    padding: 0 30px 0 0;
+}
+
+.trandingcards{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 30px;
+}
+
+.trandingcards a{
+    text-decoration: none;
+    color: white;
+}
+
+.cardname h3{
+    margin: 15px 0;
+}
+
+.cardname p{
+    margin: 15px 0;
+    font-size: 25px;
+}
+
+.bi button{
+    background-color: red;
+    height: 25px;
+    border-radius: 20px;
+    border: 0;
+    color: white;
+}
+
+.card{
+    width: 350px;
+    background-color: #525252;
+    border-radius: 25px;
+}
+
+.card img{
+    border-radius: 25px 25px 0 0;
+    width: 350px;
+}
+
+.bi{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 25px;
+}
+
+.tranding2 a{
+    text-decoration: none;
+    color: white;
+}
+
+.tranding2{
+    padding: 50px 230px 50px 230px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.footer{
+    background-color: blue;
+    border-radius: 50px;
+    padding: 10px 25px 25px 25px;
+    color: white;
+}
+
+.facebook img{
+    width: 50px;
+    border-radius: 60px;
+}
+
+.facebook a{
+    padding: 15px;
+}
+
+.copy{
+    margin: 30px 0 15px 0 ;
+}
+
+.foo{
+    font-size: 20px;
+}
